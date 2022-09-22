@@ -5,8 +5,8 @@ function chillHop() {
 
         {
             name:"Antenne Bayern",
-            artist: "Saib",
-            cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
+            artist: "German Radio",
+            cover: "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/cb/60/3e/cb603ec8-f67d-d2ff-a681-cd81b127cd2b/source/512x512bb.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://s7-webradio.antenne.de/antenne",
